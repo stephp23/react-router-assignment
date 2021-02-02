@@ -8,4 +8,4 @@ function RandomPlanet(props) {
   )
 }
 
-export default RandomPlanet
+export default RandomPlanet;

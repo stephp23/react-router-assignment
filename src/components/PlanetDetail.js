@@ -7,3 +7,5 @@ function PlanetDetail(props) {
     </div>
   )
 }
+
+export default PlanetDetail;
